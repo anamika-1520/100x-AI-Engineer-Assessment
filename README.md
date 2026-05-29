@@ -1,15 +1,6 @@
 # Anamika Voice Agent
 
 An impressive Streamlit-based AI voice and chat agent that answers as Anamika, using a personal RAG knowledge base, 100x company context, short-term conversation memory, voice input, and audio responses.
-
-## Submission Screenshot
-
-
-
-![Submission Screenshot](screenshots/submission_screenshot.png)
-
-
-
 ## Project Overview
 
 This project is a personalized interview-style voice agent built with OpenAI, LangChain, FAISS, and Streamlit. The assistant responds in first person as Anamika and can answer questions about her background, skills, projects, career goals, and 100x-related context.
@@ -115,7 +106,11 @@ The app will open in the browser, usually at:
 ```text
 http://localhost:8501
 ```
+## Submission Screenshot
 
+
+
+![Submission Screenshot](screenshots/submission_screenshot.png)
 ## Usage
 
 - Select `Chat` to type questions directly.
