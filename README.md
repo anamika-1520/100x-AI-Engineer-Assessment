@@ -6,8 +6,7 @@ An impressive Streamlit-based AI voice and chat agent that answers as Anamika, u
 
 Add your final submission screenshot here:
 
-![Submission Screenshot](<img width="1909" height="920" alt="Screenshot 2026-05-30 001246" src="https://github.com/user-attachments/assets/cdca9149-0f91-4d3a-8ec1-3559a9260997" />
-)
+![Submission Screenshot](screenshots/submission_screenshot.png)
 
 > Place the screenshot at `screenshots/submission-screenshot.png` before submitting.
 
