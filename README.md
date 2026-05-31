@@ -1,7 +1,8 @@
 # Anamika Voice Agent
 
 An impressive Streamlit-based AI voice and chat agent that answers as Anamika, using a personal RAG knowledge base, 100x company context, short-term conversation memory, voice input, and audio responses.
-🚀 **Live Demo:** https://100x-ai-engineer-assessment-qjvsw9ssp4xngv4mgeeopx.streamlit.app/
+🚀 
+## **Live Demo:** https://100x-ai-engineer-assessment-qjvsw9ssp4xngv4mgeeopx.streamlit.app/
 ## Project Overview
 
 This project is a personalized interview-style voice agent built with OpenAI, LangChain, FAISS, and Streamlit. The assistant responds in first person as Anamika and can answer questions about her background, skills, projects, career goals, and 100x-related context.
